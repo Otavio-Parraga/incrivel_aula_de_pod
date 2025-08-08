@@ -1,0 +1,5 @@
+echo "ola"
+
+cd ..
+
+ls
